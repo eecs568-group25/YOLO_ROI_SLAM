@@ -73,6 +73,16 @@ lib/
 cmake_modules/
 cmake-build-debug/
 
+results_tum/
+results_kitti01/
+results_kitti04/
+results_kitti08/
+results_euroc/
+results_fr3_rpy/
+results_fr3_xyz/
+SLAM_result/
+YOLO_Results/
+
 ExecMean.txt
 SessionInfo.txt
 Results_Euroc.txt
